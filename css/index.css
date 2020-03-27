@@ -1,0 +1,50 @@
+div#header{
+    color: white;
+    background: black;
+    padding: 1em;
+
+}
+
+div#workarea section img{
+    width: 100%;
+    background-size: cover;
+}
+
+div#workarea section h2{
+    width: 16%;
+    background: #cf142b;
+    color: white;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+div#workarea section div{
+    text-align: center;
+}
+
+div#workarea section div p{
+    color: black;
+}
+
+div.note figure{
+    max-width: 30%;
+    display: inline-block;
+}
+
+div.note figure img{
+    width: 100%;
+}
+
+div.note .info{
+    max-width: 60%;
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+div.note .info h2{
+    font-size: 1.5em;
+}
+
+div.note .info p{
+    font-size: 0.9em;
+}
