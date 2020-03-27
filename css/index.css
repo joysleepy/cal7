@@ -5,6 +5,14 @@ div#header{
 
 }
 
+div#search{
+    text-align: right;
+}
+
+div#workarea{
+    background: rgb(244, 243, 232);
+}
+
 div#workarea section img{
     width: 100%;
     background-size: cover;
@@ -41,10 +49,15 @@ div.note .info{
     font-size: 1.5em;
 }
 
-div.note .info h2{
-    font-size: 1.5em;
+div.note div.info h2{
+    font-size: 0.9em;
+    color: #cf142b;
+    font-weight:bold;
+    margin-bottom: 0px;
 }
 
-div.note .info p{
-    font-size: 0.9em;
+div.note div.info p{
+    font-size: 0.6em;
+    font-weight:bold;
+    color: rgb(103, 103, 103);
 }
